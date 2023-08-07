@@ -66871,7 +66871,7 @@ return A.bj(s,s,B.j,s,s,new A.cf(s,A.mz(B.ct,new A.eY(B.E4[b])),s,s,s,s,B.O),s,s
 $S:400}
 A.xV.prototype={
 am(){var s="assets/images/277563506_1527331110996772_4605645507836425168_n.jpg"
-return new A.Pu(A.ae3(0,1),A.ae3(0,1),A.a(["images/custom_resized_75ac9bcc-4461-48de-8748-47cde6bb26d1.jpg",s,"assets/images/ushtria.jpg",s],t.s),B.k)}}
+return new A.Pu(A.ae3(0,1),A.ae3(0,1),A.a(["assets/images/custom_resized_75ac9bcc-4461-48de-8748-47cde6bb26d1.jpg",s,"assets/images/ushtria.jpg",s],t.s),B.k)}}
 A.Pu.prototype={
 IA(a){var s=this,r=s.w
 if(a){--r
