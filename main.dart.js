@@ -66637,7 +66637,7 @@ A.LN.prototype={
 T(a){return new A.pM(new A.a6h(),null)}}
 A.a6h.prototype={
 $2(a,b){var s,r,q,p,o,n=null,m=t.w,l=t.D
-if(b.b>=600){s=A.J(a,n,m).w
+if(b.b>=800){s=A.J(a,n,m).w
 r=A.J(a,n,m).w
 q=A.J(a,n,m).w.a.a*0.01
 r=A.eg(A.aD(n,new A.bi(new A.b1(q,q,q,q),A.add(B.X,A.bM(A.a([A.ae9("assets/images/Logo_Hymeri_.svg",B.f,70,n),A.dv(n,A.J(a,n,m).w.a.a*0.02+20,n),new A.bi(B.Bz,A.br(A.a([A.cQ(n,A.dv(A.RB("Fillimi",20+A.J(a,n,m).w.a.a*0.009,!1),n,n),B.I,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.bq,B.eS,B.bq,A.cQ(n,A.RB("Trajnimet",20+A.J(a,n,m).w.a.a*0.009,!1),B.I,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.bq,B.eS,B.bq,A.cQ(n,A.dv(A.RB("Partneret",20+A.J(a,n,m).w.a.a*0.009,!1),n,n),B.I,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.bq,B.eS,B.bq,A.cQ(n,A.dU(A.RB("Rreth nesh",20+A.J(a,n,m).w.a.a*0.009,!1),B.c0,n,n,n),B.I,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n,n),B.bq,B.eS,B.bq,A.cQ(n,A.RB("Kontakti",20+A.J(a,n,m).w.a.a*0.009,!1),B.I,!1,n,n,n,n,n,n,n,n,n,n,n,n,n,n,new A.a6a(),n,n,n,n,n,n)],l),B.m,B.er,B.q),n),B.Kc],l),B.U,B.er),B.i,B.dL),n),B.i,B.N,n,n,n,s.a.a*0.1+r.a.b*0.1,n,n,n,n,n,n),1)
